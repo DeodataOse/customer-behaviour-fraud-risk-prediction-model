@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data files
+*.csv
+*.xlsx
+
+# Trained model files
+*.pkl
+*.joblib
+
+# Environment files
+.env
+
+# Colab / local files
+/content/
